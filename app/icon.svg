@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE27A"/>
+      <stop offset="0.5" stop-color="#F5C518"/>
+      <stop offset="1" stop-color="#B8860B"/>
+    </linearGradient>
+  </defs>
+  <path d="M8 1h39v39l-7 7H1V8z" fill="#0D1A4F" stroke="url(#g)" stroke-width="2"/>
+  <text x="24" y="31.5" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="19" fill="url(#g)">RQ</text>
+</svg>
